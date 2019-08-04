@@ -1,1 +1,1 @@
-c:\Users\robin\AppData\Local\Programs\Python\Python36-32\python c:\Users\robin\Desktop\change.py %*
+c:\PATH_TO_YOUR_python.exe_FILE c:\PATH_TO_YOUR_CHANGE_SCRIPT %*
